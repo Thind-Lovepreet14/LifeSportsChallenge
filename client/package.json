@@ -4,7 +4,7 @@
   "private": true,
   "proxy": "http://localhost:5000/",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "bootstrap": "^4.3.1",
     "react": "^16.8.6",
     "react-datepicker": "^2.5.0",
